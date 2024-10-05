@@ -22,3 +22,9 @@ bwip-js is a translation to native JavaScript of the amazing code provided in Ba
 ## microsoft-translate-api
 
 https://www.npmjs.com/package/microsoft-translate-api
+
+## figlet
+
+This project aims to fully implement the FIGfont spec in JavaScript. It works in the browser and with Node.js.
+
+[https://www.npmjs.com/package/figlet](https://www.npmjs.com/package/figlet)
