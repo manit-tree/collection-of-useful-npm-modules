@@ -28,3 +28,9 @@ https://www.npmjs.com/package/microsoft-translate-api
 This project aims to fully implement the FIGfont spec in JavaScript. It works in the browser and with Node.js.
 
 [https://www.npmjs.com/package/figlet](https://www.npmjs.com/package/figlet)
+
+## Compress-images
+
+Minify size your images. Image compression with extension: jpg/jpeg, svg, png, gif.
+
+[https://www.npmjs.com/package/compress-images](https://www.npmjs.com/package/compress-images)
