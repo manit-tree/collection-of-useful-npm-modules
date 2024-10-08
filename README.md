@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## degit
+
+degit makes copies of git repositories.
+
+[https://www.npmjs.com/package/degit](https://www.npmjs.com/package/degit)
+
 ## twig
 
 Twig.js is a pure JavaScript implementation of the Twig PHP templating language 
