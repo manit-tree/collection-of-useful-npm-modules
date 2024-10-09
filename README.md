@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## jsonwebtoken
+
+An implementation of JSON Web Tokens.
+
+[https://www.npmjs.com/package/jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+
 ## degit
 
 degit makes copies of git repositories.
