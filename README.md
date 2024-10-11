@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## clear-folder
+
+Ensures that a directory is empty. Deletes directory contents if the directory is not empty. 
+
+[https://www.npmjs.com/package/clear-folder](https://www.npmjs.com/package/clear-folder)
+
 ## jsonwebtoken
 
 An implementation of JSON Web Tokens.
