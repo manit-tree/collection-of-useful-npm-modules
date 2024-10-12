@@ -1,9 +1,17 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## base-62
+
+Base62 is ideal for URL shortening, creating readable codes, and compact data
+
+[https://github.com/sindresorhus/base62](https://github.com/sindresorhus/base62)
+
 ## webview-bun
 
 Webview is a tiny cross-platform library to make web-based GUIs for desktop applications.
+
+[https://github.com/tr1ckydev/webview-bun](https://github.com/tr1ckydev/webview-bun)
 
 ## clear-folder
 
