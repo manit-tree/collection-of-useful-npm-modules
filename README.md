@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## nho
+
+a tiny library designed for easy Web Component development
+
+[https://github.com/anh-ld/nho](https://github.com/anh-ld/nho)
+
 ## base-62
 
 Base62 is ideal for URL shortening, creating readable codes, and compact data
