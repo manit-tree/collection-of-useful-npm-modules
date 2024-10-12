@@ -1,6 +1,10 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## webview-bun
+
+Webview is a tiny cross-platform library to make web-based GUIs for desktop applications.
+
 ## clear-folder
 
 Ensures that a directory is empty. Deletes directory contents if the directory is not empty. 
