@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## serve
+
+serve helps you serve a static site, single page application or just a static file
+
+[https://www.npmjs.com/package/serve](https://www.npmjs.com/package/serve)
+
 ## nho
 
 a tiny library designed for easy Web Component development
