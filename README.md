@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## commander
+
+The complete solution for node.js command-line interfaces
+
+[https://www.npmjs.com/package/commander](https://www.npmjs.com/package/commander)
+
 ## serve
 
 serve helps you serve a static site, single page application or just a static file
