@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## chalk
+
+Terminal string styling done right
+
+[https://www.npmjs.com/package/chalk](https://www.npmjs.com/package/chalk)
+
 ## commander
 
 The complete solution for node.js command-line interfaces
