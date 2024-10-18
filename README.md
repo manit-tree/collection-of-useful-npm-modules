@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## nodemailer
+
+Send emails from Node.js – easy as cake!
+
+[https://www.npmjs.com/package/nodemailer](https://www.npmjs.com/package/nodemailer)
+
 ## chalk
 
 Terminal string styling done right
