@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## Gzipper
+
+A tool for compressing files
+
+[https://www.npmjs.com/package/gzipper](https://www.npmjs.com/package/gzipper)
+
 ## electron-vite
 
 Next generation Electron build tooling based on Vite
