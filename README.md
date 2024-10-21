@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## enquirer
+
+Stylish CLI prompts that are user-friendly, intuitive and easy to create.
+
+[https://www.npmjs.com/package/enquirer](https://www.npmjs.com/package/enquirer)
+
 ## prompts
 
 Lightweight, beautiful and user-friendly interactive prompts
