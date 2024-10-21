@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## prompts
+
+Lightweight, beautiful and user-friendly interactive prompts
+
+[https://www.npmjs.com/package/prompts](https://www.npmjs.com/package/prompts)
+
 ## Consola
 
 Elegant Console Wrapper
