@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+@inquirer/search
+
+Interactive search prompt component for command line interfaces.
+
+[https://www.npmjs.com/package/@inquirer/search](https://www.npmjs.com/package/@inquirer/search)
+
 ## nodemailer
 
 Send emails from Node.js – easy as cake!
