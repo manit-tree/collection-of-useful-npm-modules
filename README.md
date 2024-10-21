@@ -1,7 +1,7 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
-@inquirer/search
+## @inquirer/search
 
 Interactive search prompt component for command line interfaces.
 
