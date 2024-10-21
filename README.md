@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## iPull
+
+Super fast file downloader with multiple connections
+
+[https://www.npmjs.com/package/ipull](https://www.npmjs.com/package/ipull)
+
 ## @clack/prompts
 
 Effortlessly build beautiful command-line apps
