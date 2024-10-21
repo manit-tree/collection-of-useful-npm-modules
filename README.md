@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## @clack/prompts
+
+Effortlessly build beautiful command-line apps
+
+[https://www.npmjs.com/package/@clack/prompts](https://www.npmjs.com/package/@clack/prompts)
+
 ## Gzipper
 
 A tool for compressing files
