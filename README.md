@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## Terminal Kit
+
+[https://www.npmjs.com/package/terminal-kit](https://www.npmjs.com/package/terminal-kit)
+
+A full-blown terminal lib featuring: 256 colors, styles, keys & mouse handling, input field, progress bars, screen buffer (including 32-bit composition and image loading), text buffer, and many more...
+
 ## enquirer
 
 Stylish CLI prompts that are user-friendly, intuitive and easy to create.
