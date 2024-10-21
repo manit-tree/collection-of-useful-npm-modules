@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## picocolors
+
+The tiniest and the fastest library for terminal output formatting with ANSI colors.
+
+[https://www.npmjs.com/package/picocolors](https://www.npmjs.com/package/picocolors)
+
 ## @inquirer/search
 
 Interactive search prompt component for command line interfaces.
