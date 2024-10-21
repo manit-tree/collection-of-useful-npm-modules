@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## electron-vite
+
+Next generation Electron build tooling based on Vite
+
+[https://www.npmjs.com/package/electron-vite](https://www.npmjs.com/package/electron-vite)
+
 ## Terminal Kit
 
 [https://www.npmjs.com/package/terminal-kit](https://www.npmjs.com/package/terminal-kit)
