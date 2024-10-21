@@ -1,6 +1,12 @@
 # collection-of-useful-npm-modules
 Collection of useful NPM modules
 
+## Consola
+
+Elegant Console Wrapper
+
+[https://www.npmjs.com/package/consola](https://www.npmjs.com/package/consola)
+
 ## picocolors
 
 The tiniest and the fastest library for terminal output formatting with ANSI colors.
